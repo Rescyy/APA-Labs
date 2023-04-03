@@ -1,4 +1,4 @@
-#dynamic memory iterative algorithm
+#dynamic programming iterative algorithm
 
 def fib3(n):
     list = [0,1]
