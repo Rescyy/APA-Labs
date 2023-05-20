@@ -1,9 +1,8 @@
 from random import randint as rand
-from numpy import infty
 from timeit import default_timer as timer
 import matplotlib.pyplot as plt
 
-INF = infty
+INF = float("inf")
 
 class Graph():
  
